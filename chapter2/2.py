@@ -1,1 +1,3 @@
-2.py
+while True:
+    print('Hello World')
+    
